@@ -13,5 +13,11 @@
   "license": "MIT",
   "devDependencies": {
     "bs-platform": "^7.2.2"
+  },
+  "dependencies": {
+    "@glennsl/bs-json": "^5.0.2",
+    "body-parser": "^1.19.0",
+    "bs-express": "^1.0.1",
+    "express": "^4.17.1"
   }
 }
